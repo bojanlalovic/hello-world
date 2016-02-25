@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+Hi, Bojan here, and i only want to know how to coding...
